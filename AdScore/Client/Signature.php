@@ -3,7 +3,7 @@
 /**
  * Example library for validation response signatures from AdScore system
  *
- * @author		Bartosz Derleta <bartosz@derleta.com>
+ * @author	Bartosz Derleta <bartosz@derleta.com>
  * @copyright 	AdScore Technologies DMCC [AE]
  * @version 	20200302
  */
