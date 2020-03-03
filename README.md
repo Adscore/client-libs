@@ -1,5 +1,5 @@
-# client-libs
-Various client libraries for Adscore
+# client-libs-php
+Various PHP client libraries for Adscore
 
 
 ## Node.js library
