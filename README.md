@@ -1,6 +1,7 @@
 # client-libs-php
-Various PHP client libraries for Adscore
+Various PHP client libraries for Adscore.
 
+This is the simplified implementation. Integrators are encouraged to use https://github.com/adscore/php-common instead.
 
 ## Node.js library
 
